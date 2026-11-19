@@ -1,22 +1,17 @@
-# Archee Studio
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Archee-Studio/.github/main/profile/assets/banner-dark.png">
+  <img alt="Archee Studio: automating the drafter, empowering the engineer. From one record to the sheet, the report and the check." src="https://raw.githubusercontent.com/Archee-Studio/.github/main/profile/assets/banner-light.png">
+</picture>
 
-**Automating the drafter. Empowering the engineer.**
+**Automating the drafter. Empowering the engineer.** Drop in your DXF, point at the part, say what is wrong, and Tobi, the Archee agent, draws it again: from one record to the sheet, the report and the check.
 
-<a href="https://archee.studio"><img src="https://raw.githubusercontent.com/Archee-Studio/.github/main/profile/assets/hero.jpg" alt="The Archee Studio mascot beside a mechanical assembly drawing" width="100%"></a>
+[Open the app](https://app.archee.studio) · [Website](https://archee.studio) · [Docs](https://docs.archee.studio) · [Download](https://archee.studio/download/)
 
-Archee Studio is an AI assistant for mechanical design. Tell it what you are designing: it works through the calculations with you, prepares drawings you can edit (DXF and DWG) and writes the report for you to review.
-
-[Website](https://archee.studio) · [Open the app](https://app.archee.studio) · [Docs](https://docs.archee.studio) · [Download](https://archee.studio/download/)
-
-## Repositories
-
-| Repository | What it is |
+| Repository | |
 | --- | --- |
-| [archee-studio](https://github.com/Archee-Studio/archee-studio) | Product home: known issues, bug reports and feature requests |
-| [archee-cli](https://github.com/Archee-Studio/archee-cli) | `archee`, the command line that connects a folder on your computer |
-| [archee-desktop](https://github.com/Archee-Studio/archee-desktop) | Archee Studio for macOS and Windows |
-| [homebrew-tap](https://github.com/Archee-Studio/homebrew-tap) | Homebrew formulae and casks |
+| [archee-studio](https://github.com/Archee-Studio/archee-studio) | Bug reports, feature requests, known issues |
+| [archee-cli](https://github.com/Archee-Studio/archee-cli) | Connect a folder on your computer |
+| [archee-desktop](https://github.com/Archee-Studio/archee-desktop) | macOS and Windows app |
+| [homebrew-tap](https://github.com/Archee-Studio/homebrew-tap) | `brew install archee-studio/tap/archee-cli` |
 
-Piloting at HCMUT · AWS Activate · Member of the NVIDIA Inception Program
-
-Contact: [team@archee.studio](mailto:team@archee.studio)
+Piloting at HCMUT · AWS Activate · NVIDIA Inception · [team@archee.studio](mailto:team@archee.studio)
