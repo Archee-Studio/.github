@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bug or feature request for Archee Studio
+    url: https://github.com/Archee-Studio/archee/issues/new/choose
+    about: Product feedback goes to the archee-studio repository.
+  - name: Account, billing or credits
+    url: mailto:team@archee.studio
+    about: Questions about your account, payments or credits.
