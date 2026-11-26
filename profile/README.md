@@ -3,7 +3,7 @@
   <img alt="Archee Studio: automating the drafter, empowering the engineer. From one record to the sheet, the report and the check." src="https://raw.githubusercontent.com/Archee-Studio/.github/main/profile/assets/banner-light.png">
 </picture>
 
-**Automating the drafter. Empowering the engineer.** Drop in your DXF, point at the part, say what is wrong, and Tobi, the Archee agent, draws it again: from one record to the sheet, the report and the check.
+**Automating the drafter. Empowering the engineer.** Archee Studio is agentic CAD for mechanical design: describe the machine, and the agent works out the calculations, drafts editable DXF and DWG sheets and writes the report, all from one design record you can check. Drop in your DXF, point at the part, say what is wrong, and Tobi, the Archee agent, draws it again: from one record to the sheet, the report and the check.
 
 [Open the app](https://app.archee.studio) · [Website](https://archee.studio) · [Docs](https://docs.archee.studio) · [Download](https://archee.studio/download/)
 
